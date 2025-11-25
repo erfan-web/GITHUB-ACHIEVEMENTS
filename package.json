@@ -1,0 +1,25 @@
+{
+  "name": "github-achievements",
+  "version": "1.0.0",
+  "description": "new line",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erfan-web/GITHUB-ACHIEVEMENTS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erfan-web/GITHUB-ACHIEVEMENTS/issues"
+  },
+  "homepage": "https://github.com/erfan-web/GITHUB-ACHIEVEMENTS#readme",
+  "dependencies": {
+    "jsonfile": "^6.2.0",
+    "moment": "^2.30.1"
+  }
+}
